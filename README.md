@@ -17,6 +17,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 6. Evaluate the model using accuracy or other metrics.
 
 ## Program:
+
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
